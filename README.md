@@ -1,16 +1,13 @@
-### Hi there 👋
+Header
 
-<!--
-**kuzkov/kuzkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a professional frontend engineer
 
-Here are some ideas to get you started:
+Latests blog posts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and tools
+
+Follow me
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuzkov&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuzkov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
