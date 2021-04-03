@@ -11,7 +11,7 @@
 🌱 &nbsp; I'm on track for learning more about mobile development.\
 💬 &nbsp; Feel free to reach out to me for general consulting!\
 ✉️ &nbsp; You can email me at fl.artyom.kuzkov@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp; You can check my [Resume](#) for more details about work experience.
+📄 &nbsp; You can check my [resume](#) and [website](https://kuzkov.github.io) for more details about work experience.
 
 ## Contact me
 
