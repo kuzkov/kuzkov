@@ -2,9 +2,6 @@
 <!--
 # Hello 👋 I'm a professional frontend engineer
 
-<!--
-  Latests blog posts
--->
 
 ## 👨🏻‍💻 &nbsp;About Me
 
