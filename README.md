@@ -3,7 +3,6 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a web developer, currently working with angular and react\
-<!-- 🎓 &nbsp; I'm currently studying Mathematics & Computer Science at Mechanics and mathematics faculty at the BSU.\ -->
 🌱 &nbsp; I'm on track for learning more about fullstack development.\
 💬 &nbsp; Feel free to reach out to me for general consulting!\
 ✉️ &nbsp; You can email me at fl.artyom.kuzkov@gmail.com. I'll try to respond as soon as possible!\
@@ -13,7 +12,6 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artyom_kuzkov)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fl.artyom.kuzkov@gmail.com)
-<!-- [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whit)](https://github.com/kuzkov) -->
 
 ## Frameworks
 
